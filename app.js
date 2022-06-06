@@ -4,7 +4,25 @@ console.log(
 );
 
 // Exercise 1
-
+<script>
+  const firstName;
+  let lastName = "String";
+  var age = 40
+</script>
 // Exercise 2
-
+<script>
+firstName = "Robert";
+lastName = "Saghafi"
+age = 40
+</script>
 // Exercise 3
+<script>
+  let language = "JavaScript";
+  let createdYear = 1995;
+  let isCaseSensitive = true
+</script>
+// Exercise 4
+<script>
+  
+</script>
+// Exercise 5
